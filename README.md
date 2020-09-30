@@ -1,31 +1,15 @@
-# Introduction to computing with Python for engineering and scientific applications
+# Introduction to computing with Python for Engineering Science
 
-These Jupyter notebooks provide a self-study introduction to computing
-with Python. They have been developed for the computing course in Part
-IA (Michaelmas Term) of the Engineering Tripos at University of
-Cambridge. This is a first computing course for undergraduate students.
-
-The notebooks can be freely used, shared and modified. See the copyright
-and license notice below.
-
+These Jupyter notebooks provide a self-study introduction to computing with Python. They are intended to be used alongside the A2 subpaper Introduction to Computer Engineering as part of the MEng in Engineering Science. 
 
 ## Viewing and running
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CambridgeEngineering/PartIA-Computing-Michaelmas)
-
-Cambridge users should use their University credentials (CRSid) to log in.
+To view 
 
 ## Getting started
 
 Each notebook covers a topic, with a number of exercises for completion
-at the end of each notebook. Start with the notebook [Part IA Michaelmas
-Term computing](00%20Part%20IA%20Michaelmas%20Term%20computing.ipynb). Model
-solutions to the exercises are available - contact [Garth N.
-Wells](<gnw20@cam.ac.uk>) to request the solutions.
-
-Cambridge students/staff: When prompted to sign in to the Google
-Colaboratory service, use your University of Cambridge email address,
-e.g. `crsid@cam.ac.uk`.
+at the end of each notebook. Start with the notebook [A2 Introduction to Computer Engineering](00%20A2%20Introduction%20to%20Computer%20Engineering.ipynb). 
 
 
 ## Accompanying exercises
@@ -34,20 +18,23 @@ For each notebook there are a set of exercises in the directory
 [Exercises](./Exercises/) for completion at end the of each Activity
 notebook.
 
+# Credits
+
+This repository was developed for the computing course in Part IA (Michaelmas Term) of the Engineering Tripos at University of Cambridge. The notebooks can be freely used, shared and modified. See the copyright
+and license notice below. The original material can be found at https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas
+
 
 ## Feedback and corrections
 
-These notebooks are maintained at
-https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas.
-Please report suggestions or errors at:
+These notebooks are maintained at: https://github.com/hawesie/a2-computer-engineering.
 
-https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas/issues
+Please report suggestions or errors at: https://github.com/hawesie/a2-computer-engineering/issues
 
 
 ## Author
 
-These notebooks are developed by Garth N. Wells (@garth-wells,
-<gnw20@cam.ac.uk>).
+These notebooks were originally developed by Garth N. Wells (@garth-wells,
+<gnw20@cam.ac.uk>). They were adapted for use at the University of Oxford by Nick Hawes (<nickh@robots.ox.ac.uk>).
 
 
 ## Acknowledgements
