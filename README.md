@@ -14,7 +14,7 @@ A video on using Anaconda to run a Jupyter Notebook is here: https://youtu.be/x0
 
 ### Cloud: AWS SageMaker 
 
-If you don't want to install anything on your local machine, or don't have a device capable of running Jupyter notebooks, then you can run your notebooks on a cloud server (i.e. a remote machine). I recommend using AWS SageMaker. To get free access to this tool, do the following:
+If you don't want to install anything on your local machine, or don't have a device capable of running Jupyter notebooks, then you can run your notebooks on a cloud server (i.e. a remote machine). I recommend using AWS SageMaker. To get free access to this tool, use the following instructions. Please make sure you sign up for **AWSEducate** rather than normal **AWS**. If you use AWSEducate you should not need to enter any payment methods.
 
 1. Sign up for an AWS Educate account: https://www.awseducate.com/registration. You can sign up as a student (with a *.ox.ac.uk email) and get a student account that provides you with free access to a range of AWS services, including AWS SageMaker Studio, which is the name for the AWS version of Jupyter Lab.
 2. Once you have your account activated, sign in to your AWS Educate account: https://www.awseducate.com/signin/SiteLogin
